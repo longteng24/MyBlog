@@ -25,3 +25,5 @@
 /.nb-gradle/
 /my-blog-logs/
 my-blog-logs/debug/debug.log
+*.log
+src/main/resources/application.properties
